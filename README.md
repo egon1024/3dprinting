@@ -1,0 +1,1 @@
+This repo contains models (and potentially other files) related to my 3d printing efforts.  I've put them here mostly for version control, but if anything here is in any way useful, please feel free to use it.  Comments/questions/PRs are all encouraged.
